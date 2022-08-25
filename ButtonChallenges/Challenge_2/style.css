@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+  }
+  
+  .div__btn{
+    
+    /* position: absolute;
+    top:50%;
+    left: 50%;  */
+     width: 100px;
+    height: 100px;
+    border: 100px rgb(245, 245, 13);
+    
+}
+
+.btn{
+    width:90px;
+    height: 30px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    background-color: black;
+    color: #fff;
+    border-radius:6px 6px;
+    /* border:10px 10px   ; */
+    /* border-color: rgb(219, 219, 17); */
+    outline: 2px solid rgb(219, 219, 17);
+    
+    font-size: 0.8rem;
+    font-weight: 400;
+    cursor: grab;
+     /* transition: box-shadow 6300ms ease-in-out,color  6600ms ease-in-out   ; */
+     box-shadow: 2px 2px 10px 4px       rgb(219, 219, 17)  ;
+    
+
+}

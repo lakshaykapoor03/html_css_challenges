@@ -1,0 +1,41 @@
+.footer{
+   position: relative;
+   top: 50%;
+ 
+    
+}
+
+.content{ display: flex;
+    flex:1;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+h2{
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+/* .services{
+
+    display: grid;
+}
+
+.social-media{
+    display: grid;
+}
+
+.links{
+    display: grid;
+}
+
+.details{
+display: grid;
+} */
+
+footer{
+    text-align: center;
+}

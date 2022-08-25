@@ -1,0 +1,165 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+
+footer{
+    position: absolute;
+    top:60%;
+    width: 100%;
+    overflow-x:visible !important;
+   font-family:'Poppins', 'Courier New', Courier, monospace;
+    
+}
+
+.top{
+    display:flex;
+    flex:1;
+    justify-content: space-between;
+    position: relative;
+    left: 6%;
+    right: 6%;
+    margin-left: 20px;
+    margin-right: 20%;
+   
+}
+
+.link-boxes{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: #fff;
+
+}
+
+.bottom_text{
+    display: flex;
+    justify-content: space-between;
+   position: relative;
+   left: 6%;
+   right: 6%;
+   margin-left: 20px;
+   margin-right: 10%;
+   margin-bottom: 20px;
+  
+   
+}
+
+.box{
+    list-style-type: none;
+    text-decoration:none;
+    
+
+}
+
+.link_name{
+    text-decoration: none;
+}
+
+.logo_name{
+    font-size: 30px;
+    }
+
+    .fab{
+        margin-bottom: 10px
+       
+    }
+
+    .fa-facebook-f{
+       width:30px;
+       height: 30px;
+        border-radius: 50%;
+        background-color: rgb(8, 93, 169);
+        color: #fff;
+       align-items: center;
+       display: flex;
+      
+       justify-content: center;
+    }
+    .fa-twitter{ width:30px;
+        height: 30px;
+         border-radius: 50%;
+         background-color: rgb(57, 142, 217);
+         color: #fff;
+        align-items: center;
+        display: flex;
+        
+        justify-content: center;
+     }
+
+    .fa-instagram{ width:30px;
+        height: 30px;
+        border-radius: 50%;
+        background-color: rgb(235, 93, 157);
+        color: #fff;
+       align-items: center;
+       display: flex;
+       justify-content: center;
+    }
+
+    
+
+    .fa-linkedin-in{width:30px;
+        height: 30px;
+        border-radius: 50%;
+        background-color: rgb(34, 122, 198);
+        color: #fff;
+       align-items: center;
+       display: flex;
+      
+       justify-content: center;
+    }
+    
+.fa-youtube{width:30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(228, 36, 52);
+    color: #fff;
+   align-items: center;
+   display: flex;
+  
+   justify-content: center;
+}
+
+.media-icons{
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.content{
+    background-color: rgb(10, 11, 90);
+    color: #fff;
+
+}
+a{
+    color: #fff;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+span{
+    color: #fff;
+}
+
+.bottom-details{
+    background-color: rgb(3, 13, 58);
+    padding: 2px;
+}
+
+.email-input{
+    background-color: rgb(10, 11, 90);
+    color: #fff;
+   
+}
+
+.subscribe-input{
+    color: rgb(15, 15, 91);
+    width: auto;
+}
+.link_name{
+    text-decoration: underline;
+}
+
+.fa-slack{
+    height: 30px;
+}
